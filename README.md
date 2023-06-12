@@ -6,7 +6,7 @@ This GitHub page houses several projects I've worked on or am still actively wor
 
 ## Where can I find you? 👀
 
-I'm on Discord at MegaMasterX#6321.   Twitter @MegaMasterX.  [Also on Cohost!](https://cohost.org/MegaMasterX)
+I'm on Discord at megamasterx.   Twitter @MegaMasterX.  [Also on Cohost!](https://cohost.org/MegaMasterX)
 
 ## What's ColonelBot?
 
